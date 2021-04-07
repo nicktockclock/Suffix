@@ -1,0 +1,12 @@
+/Users/nicholasmaslen/Projects/Suffix/Suffix/bin/Debug/netcoreapp3.1/Suffix.deps.json
+/Users/nicholasmaslen/Projects/Suffix/Suffix/bin/Debug/netcoreapp3.1/Suffix.runtimeconfig.json
+/Users/nicholasmaslen/Projects/Suffix/Suffix/bin/Debug/netcoreapp3.1/Suffix.runtimeconfig.dev.json
+/Users/nicholasmaslen/Projects/Suffix/Suffix/bin/Debug/netcoreapp3.1/Suffix.dll
+/Users/nicholasmaslen/Projects/Suffix/Suffix/bin/Debug/netcoreapp3.1/Suffix.pdb
+/Users/nicholasmaslen/Projects/Suffix/Suffix/obj/Debug/netcoreapp3.1/Suffix.csprojAssemblyReference.cache
+/Users/nicholasmaslen/Projects/Suffix/Suffix/obj/Debug/netcoreapp3.1/Suffix.AssemblyInfoInputs.cache
+/Users/nicholasmaslen/Projects/Suffix/Suffix/obj/Debug/netcoreapp3.1/Suffix.AssemblyInfo.cs
+/Users/nicholasmaslen/Projects/Suffix/Suffix/obj/Debug/netcoreapp3.1/Suffix.csproj.CoreCompileInputs.cache
+/Users/nicholasmaslen/Projects/Suffix/Suffix/obj/Debug/netcoreapp3.1/Suffix.dll
+/Users/nicholasmaslen/Projects/Suffix/Suffix/obj/Debug/netcoreapp3.1/Suffix.pdb
+/Users/nicholasmaslen/Projects/Suffix/Suffix/obj/Debug/netcoreapp3.1/Suffix.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7BC58855-E9D6-4267-929D-D366B7F585AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Suffix/Program.cs">
+    <Files>
+      <File FileName="Suffix/Program.cs" Line="34" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Suffix" expanded="True">
+            <Node name="Suffix" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Suffix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
